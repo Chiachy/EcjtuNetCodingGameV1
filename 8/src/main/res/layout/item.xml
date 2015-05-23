@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#00ffffff"
+    android:weightSum="1">
+
+
+    <ImageView
+        android:background="#00ffffff"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginLeft="10dp"
+        android:src="@drawable/touxiang"
+        android:id="@+id/imageView" />
+
+    <TextView
+        android:layout_width="60dp"
+        android:layout_height="30dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:textColor="#ff000000"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="王尼玛"
+        android:id="@+id/textView"
+        android:layout_weight="0.19" />
+</LinearLayout>

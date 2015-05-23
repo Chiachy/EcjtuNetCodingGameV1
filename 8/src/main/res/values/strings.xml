@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Need for Communicating</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_user_interface">UserInterface</string>
+    <string name="title_activity_telephone">Telephone</string>
+    <string name="title_activity_short_message">ShortMessage</string>
+</resources>
